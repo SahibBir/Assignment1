@@ -1,0 +1,162 @@
+header{
+    padding: 1em;
+    color: green;
+    /*background-color: #031F73;*/
+    clear: left;
+    text-align: center;
+}
+footer{
+  position: fixed;
+  color: black;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  /*color: white;*/
+  text-align: center;
+}
+
+
+#Home{
+  background-image:"/Users/sahibbhatia/Downloads/PHOTO_Mobile.jpeg";
+  max-width: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: ;
+}
+
+nav {
+    float: left;
+    max-width: 10%;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+#About{
+  background-image: url("https://thedesignest.net/wp-content/uploads/2019/06/Wood-Boards-Texture.jpg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#myPhoto{
+  clear: left;
+  height: 400px;
+  width: 400px;
+  margin-left: 50px;
+  margin-top: 100px;
+  /*border-radius: 0.5em;
+  border-color: black;
+  border-style: solid;
+  border-width: 1em;*/
+}
+
+#Edu{
+  background-image: url("https://image.freepik.com/free-photo/stacks-books-several-brown-background-close-up-back-school-education-learning_76263-1704.jpg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+th{
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+td{
+  font-size: 20px;
+  border: 1px solid black;
+  text-align: top;
+  /*padding: 40px;*/
+}
+
+#Work{
+  background-image: url("https://i.pinimg.com/736x/4f/16/66/4f1666e6bcc2f46c82ffe5e93098f872.jpg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#devops{
+  clear: left;
+  height: 400px;
+  width: 800px;
+  margin-left: 50px;
+  margin-top: 60px;
+  border-radius: 0.5em;
+  border-color: black;
+  border-style: solid;
+  border-width: 1em;
+
+}
+
+#Skills{
+  background-image: url("https://previews.123rf.com/images/annaleni/annaleni1612/annaleni161200084/67657568-blue-coding-line-tile-pattern-illustration-of-outline-seamless-background-programming-skills-.jpg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Achievements{
+  background-image: url("https://i.pinimg.com/736x/da/86/41/da86413d9c1d2fa2bdd1bffcc2504979.jpg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Goals{
+  background-image: url("https://lh3.googleusercontent.com/proxy/qChQih5bvv4yYaHCK8X6HByfw78VdztIqKKkluU13DX3hut3sS9peLHPW1jlvilykEAGRM2aLv6o46XCxJ-KVPncVg");
+  min-height: 810px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+section li {
+  width: 90%;
+}
+
+nav li {
+  width: 100%;
+  background-color: none;
+  margin-bottom: 5px;
+  padding: 5px;
+  border-radius: 0.4em;
+}
+
+nav ul a {
+  text-decoration: none;
+  color: white;
+}
+
+article {
+    /*margin-left: 10px;*/
+    /*border-left: 1px solid gray;*/
+    padding: 1em;
+    float: as
+    overflow: hidden;
+}
+
+section {
+    padding-left: 10px;
+    float: left;
+    max-width: 30%;
+}
